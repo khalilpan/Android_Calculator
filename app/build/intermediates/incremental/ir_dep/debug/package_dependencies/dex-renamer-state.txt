@@ -1,0 +1,4 @@
+#Mon Nov 26 19:01:53 BRT 2018
+base.0=/Users/khalil/Desktop/Android CESAR/Calculator/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
